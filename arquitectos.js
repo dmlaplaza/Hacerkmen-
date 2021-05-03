@@ -5,3 +5,9 @@ let arquitectos = [
     'Peter Zumthor'
 ];
 module.exports = arquitectos;
+
+let michis = [
+    "Milu",
+    "Tita",
+    "La gata nueva de suyai",
+]
