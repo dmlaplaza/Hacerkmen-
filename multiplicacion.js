@@ -3,3 +3,6 @@ function multiplicar (numeroA, numeroB){
 }
 
 module.exports = multiplicar
+
+//Nico estuvo aqui
+//Barbara vieja
